@@ -10,14 +10,14 @@ Listar e apontar para os projetos, **sem os alojar aqui**. Os projetos reais viv
 - O conteúdo real fica na área dona do projeto.
 
 ## Exemplos de onde vivem os projetos
-- [[work/previmed/website/000_website|work/previmed/website/]]
-- [[work/previmed/careview/000_careview|work/previmed/careview/]]
+- [[professional/previmed/website/000_website|professional/previmed/website/]]
+- [[professional/previmed/careview/000_careview|professional/previmed/careview/]]
 - `car/projects/`
 - `health/projects/`
 
 ## Índice
 > Preencher com os projetos ativos e o seu estado. Ex.:
-> - **Previmed Website** — prioridade atual — [[work/previmed/website/000_website|abrir]]
+> - **Previmed Website** — prioridade atual — [[professional/previmed/website/000_website|abrir]]
 
 ## Estado atual
 Base inicial.

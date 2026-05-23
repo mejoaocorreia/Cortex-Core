@@ -15,7 +15,7 @@ Acompanhar saúde e bem-estar: sono, peso, treino e hidratação.
 - [[health/archive/index|archive]] — arquivo da área
 
 ## Como o CortexCore vai usar
-Dados de saúde são **sensíveis**: seguir sempre [[cortex/protocols/privacy|privacy]] e nunca versionar dados reais no GitHub. Pode cruzar com [[life/habits/000_habits|hábitos]].
+Dados de saúde são **sensíveis**: seguir sempre [[cortex/protocols/privacy|privacy]] e nunca versionar dados reais no GitHub. Pode cruzar com [[operator/habits/000_habits|hábitos]].
 
 ## Estado atual
 Base inicial, sem dados reais.

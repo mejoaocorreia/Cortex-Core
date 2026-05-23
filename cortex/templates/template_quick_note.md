@@ -3,11 +3,11 @@
 ## Nota
 
 ## Possível área
-- [ ] life
-- [ ] work
-- [ ] knowledge
+- [ ] operator
+- [ ] professional
+- [ ] learning
 - [ ] health
-- [ ] finance
+- [ ] wealth
 - [ ] car
 - [ ] cortex
 
@@ -17,6 +17,6 @@
 - [ ] não sei
 
 ## Próximo tratamento
-- [ ] enviar para qo
+- [ ] enviar para queue
 - [ ] mover para área correta
 - [ ] arquivar

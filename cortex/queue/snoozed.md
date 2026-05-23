@@ -1,4 +1,4 @@
-# QO — Snoozed
+# Queue — Snoozed
 
 Itens adiados para depois.
 

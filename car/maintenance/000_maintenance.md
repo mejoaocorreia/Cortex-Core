@@ -10,7 +10,7 @@ Acompanhar revisões, reparações e manutenção preventiva.
 - próximas revisões e prazos
 
 ## Como o CortexCore vai usar
-Prazos de revisão podem virar lembretes em [[000_queue|qo]]. Custos ligam a [[car/expenses/000_expenses|despesas]].
+Prazos de revisão podem virar lembretes em [[cortex/queue/000_queue|Queue]]. Custos ligam a [[car/expenses/000_expenses|despesas]].
 
 ## Estado atual
 Por preencher.

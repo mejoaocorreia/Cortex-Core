@@ -1,31 +1,26 @@
-# {{date:YYYY-MM-DD}}
+# Template — Queue Item
 
-## Morning Brief
-- Tempo:
-- Agenda:
-- Prioridade principal:
-- Atenção:
+Modelo para um item da fila [[cortex/queue/000_queue|Queue]]. Copiar e preencher.
 
-## Focus
-- [ ] 
+---
 
-## Notes
-- 
+# <título do item>
 
-## Captured
-Coisas soltas do dia que podem precisar de tratamento:
-- 
+- **status:** open / priority / waiting / snoozed / muted / closed
+- **attention_score:** 0–100
+- **mention_count:** 0
+- **last_mentioned:** AAAA-MM-DD
+- **area:** operator / professional / learning / health / wealth / car / cortex
+- **project:** (se pertencer a um projeto)
+- **due:** AAAA-MM-DD (se aplicável)
+- **reminder_policy:** (ex.: avisar 1 dia antes)
 
-## QO Candidates
-Coisas que talvez devam ir para QO:
-- 
+## Descrição
+O que é e porque está aberto.
 
-## End of Day
-### Feito
-- 
+## Próxima ação
+- [ ] o passo concreto seguinte
 
-### Ficou aberto
-- 
-
-### Aprendido / notado
-- 
+## Histórico de menções
+> Sempre que o assunto volta a ser mencionado, registar aqui e incrementar `mention_count`.
+- AAAA-MM-DD — ...

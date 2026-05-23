@@ -1,4 +1,4 @@
-# QO Archive
+# Queue Archive
 
 Arquivo de itens antigos da fila.
 

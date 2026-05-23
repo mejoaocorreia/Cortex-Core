@@ -22,7 +22,7 @@ Modelo para o [[cortex/daily/today|today]] e para os dias arquivados.
 - por localização: ...
 
 ## Tarefas prioritárias
-- [ ] (de [[priority|qo/priority]])
+- [ ] (de [[priority|queue/priority]])
 
 ## Notas do dia
 ...

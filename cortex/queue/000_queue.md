@@ -1,6 +1,6 @@
 # Queue
 
-Fila organizada de coisas abertas. A pasta chama-se **`queue.
+Fila organizada de coisas abertas. A pasta chama-se **`queue`**.
 
 ## Objetivo
 Reunir, num só sítio, tudo o que está em aberto e precisa de atenção, ordenado por importância real.
@@ -19,7 +19,7 @@ Ainda vamos debater o significado final. Por agora pode ser entendido como **"Qu
 - [[cortex/queue/archive/index|archive]] — arquivo de itens antigos
 
 ## Fluxo
-`inbox → unprocessed → qo → daily / área / projeto → archive`
+`inbox → unprocessed → queue → daily / área / projeto → archive`
 
 ## Attention Score
 Cada item pode ter um **Attention Score** que mede a atenção que precisa.
@@ -38,12 +38,12 @@ Cada item pode ter um **Attention Score** que mede a atenção que precisa.
 - `reminder_policy`
 
 ## Como o CortexCore vai usar
-O QO é onde o sistema decide o que mostrar no [[cortex/daily/focus|foco]] do dia. As [[rules|regras]] definem como calcular o score e mover itens entre estados.
+A Queue é onde o sistema decide o que mostrar no [[cortex/daily/focus|foco]] do dia. As [[rules|regras]] definem como calcular o score e mover itens entre estados.
 
 ## Estado atual
 Base inicial com os estados e o conceito de Attention Score.
 
 ## Próximos passos
-- [ ] fechar o significado de `qo`
+- [ ] fechar o significado de `queue`
 - [ ] definir a fórmula do Attention Score
 - [ ] decidir como `mention_count` é incrementado

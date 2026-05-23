@@ -7,7 +7,7 @@ Preparar a revisão da semana de forma automática.
 
 ## O que faz (futuro)
 - agrega [[cortex/daily/stats|stats]] da semana
-- lista itens fechados e em aberto em [[000_queue|qo]]
+- lista itens fechados e em aberto em [[cortex/queue/000_queue|Queue]]
 - prepara o ficheiro [[cortex/daily/reviews/weekly|weekly]]
 
 ## Como o CortexCore vai usar

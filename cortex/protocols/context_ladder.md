@@ -7,7 +7,7 @@ Evitar carregar tudo de uma vez. Ler apenas o necessário, na ordem certa, prote
 
 ## A regra (por ordem)
 1. **Ler primeiro o contexto mínimo** — o essencial para perceber o pedido.
-2. **Identificar a área afetada** — life, work, health, etc.
+2. **Identificar a área afetada** — operator, professional, health, etc.
 3. **Só depois ler o contexto específico** dessa área.
 4. **Nunca carregar tudo sem necessidade.**
 5. **Proteger dados sensíveis** — ver [[cortex/protocols/privacy|privacy]].

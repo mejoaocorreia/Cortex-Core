@@ -1,4 +1,4 @@
-# QO — Waiting
+# Queue — Waiting
 
 Itens à espera de terceiros.
 

@@ -3,7 +3,7 @@
 Modelos reutilizáveis do CortexCore.
 
 ## Objetivo
-Manter formatos consistentes para projetos, agentes, decisões, rotinas, daily e itens de QO.
+Manter formatos consistentes para projetos, agentes, decisões, rotinas, daily e itens de queue.
 
 ## O que vai guardar aqui
 - [[cortex/templates/template_project|template_project]]

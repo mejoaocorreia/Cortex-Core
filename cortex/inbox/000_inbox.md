@@ -13,9 +13,9 @@ Capturar tudo o que chega sem classificação, sem fricção. Primeiro captura-s
 ## Como o CortexCore vai usar
 Fluxo de processamento:
 
-`inbox → unprocessed → qo → daily / área específica / projeto → archive`
+`inbox → unprocessed → queue → daily / área específica / projeto → archive`
 
-Tudo o que entra é triado: vira item de [[000_queue|qo]], entra no [[cortex/daily/000_daily|daily]], move-se para uma área específica, ou vai para arquivo.
+Tudo o que entra é triado: vira item de [[cortex/queue/000_queue|Queue]], entra no [[cortex/daily/000_daily|daily]], move-se para uma área específica, ou vai para arquivo.
 
 ## Ideias discutidas
 Nomes alternativos debatidos para esta zona:

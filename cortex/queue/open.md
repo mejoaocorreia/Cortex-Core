@@ -1,4 +1,4 @@
-# QO — Open
+# Queue — Open
 
 Itens em aberto, em curso.
 

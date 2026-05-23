@@ -7,7 +7,7 @@ Visão do mês: progresso nos objetivos, padrões e correções de rumo.
 
 ## O que vai guardar aqui
 - resumo do mês
-- progresso em objetivos das áreas (ver [[life/goals/000_goals|life/goals]], [[finance/goals/000_goals|finance/goals]])
+- progresso em objetivos das áreas (ver [[operator/goals/000_goals|operator/goals]], [[wealth/goals/000_goals|wealth/goals]])
 - decisões a registar em [[cortex/memory/decisions|memory/decisions]]
 
 ## Como o CortexCore vai usar

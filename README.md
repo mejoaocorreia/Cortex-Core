@@ -4,14 +4,14 @@ CortexCore é um sistema pessoal de memória, contexto, automação e agentes �
 
 ## O que é
 - **Obsidian** como base de memória (este Vault).
-- **GitHub privado** para código, estrutura e templates.
+- **GitHub** para código, estrutura e templates; dados sensíveis não entram no repositório.
 - **n8n** para rotinas e automações.
 - Uma futura **interface / dashboard** estilo Obsidian.
 
 ## Estrutura mental
 - O **Vault inteiro** representa o CortexCore. Por isso não existe uma pasta `cortexcore` dentro do Vault.
-- A pasta **`cortex/`** é o núcleo operativo: regras, memória, versões, rotinas, sistema, interface, fila de atenção (QO), daily e agentes principais.
-- As restantes pastas de topo (`life`, `work`, `knowledge`, `health`, `finance`, `car`, `archive`) são áreas de vida.
+- A pasta **`cortex/`** é o núcleo operativo: regras, memória, versões, rotinas, sistema, interface, fila de atenção (queue), status, modes, daily e agentes principais.
+- As restantes pastas de topo (`operator`, `professional`, `learning`, `health`, `wealth`, `car`, `archive`) são as áreas principais. O `operator` representa a pessoa real por trás do sistema (o utilizador).
 
 ## Aviso importante
 - Esta é uma **base inicial explicativa** (versão `0.00.0`). São rascunhos e orientação, não conteúdo final.
@@ -28,5 +28,5 @@ Estruturação inicial: pastas e ficheiros `.md` explicativos.
 
 ## Próximos passos
 - [ ] preencher contexto real, quando fizer sentido
-- [ ] configurar GitHub privado e n8n
+- [ ] configurar GitHub e n8n
 - [ ] desenhar a interface / dashboard

@@ -1,4 +1,4 @@
-# QO — Rules
+# Queue — Rules
 
 Regras de triagem e prioridade da fila.
 

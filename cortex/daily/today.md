@@ -10,7 +10,7 @@ Concentrar tudo o que importa hoje, num só sítio.
 - foco principal (ver [[cortex/daily/focus|focus]])
 - lembretes (ver [[cortex/daily/reminders|reminders]])
 - reuniões
-- tarefas prioritárias (de [[priority|qo/priority]])
+- tarefas prioritárias (de [[priority|queue/priority]])
 
 ## Como o CortexCore vai usar
 A morning routine prepara este ficheiro de manhã. No fim do dia, o [[cortex/routines/daily_rollover|daily_rollover]] arquiva-o.

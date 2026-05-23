@@ -6,7 +6,7 @@ Arquivo global do CortexCore.
 Guardar material antigo **global** ou **sem área clara**.
 
 ## Regra
-Sempre que possível, usar o archive da **área específica** (ex.: [[work/archive/index|work/archive]], [[life/archive/index|life/archive]], [[cortex/archive/index|cortex/archive]]). Este archive global é só o último recurso.
+Sempre que possível, usar o archive da **área específica** (ex.: [[professional/archive/index|professional/archive]], [[operator/archive/index|operator/archive]], [[cortex/archive/index|cortex/archive]]). Este archive global é só o último recurso.
 
 ## O que vai guardar aqui
 - material antigo que não pertence a nenhuma área

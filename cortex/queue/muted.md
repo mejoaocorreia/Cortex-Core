@@ -1,4 +1,4 @@
-# QO — Muted
+# Queue — Muted
 
 Itens silenciados.
 

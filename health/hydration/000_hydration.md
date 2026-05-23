@@ -10,7 +10,7 @@ Acompanhar a ingestão de água ao longo do dia.
 - objetivo diário
 
 ## Como o CortexCore vai usar
-Pode gerar lembretes ao longo do dia e ligar-se a [[life/habits/000_habits|hábitos]] e [[cortex/daily/stats|stats]].
+Pode gerar lembretes ao longo do dia e ligar-se a [[operator/habits/000_habits|hábitos]] e [[cortex/daily/stats|stats]].
 
 ## Estado atual
 Por preencher.

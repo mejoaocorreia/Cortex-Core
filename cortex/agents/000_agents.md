@@ -13,7 +13,7 @@ Estes agentes seguem [[cortex/protocols/agents|o protocolo de agentes]]: cada á
 
 ## Ideias discutidas
 - Agentes não vivem todos numa pasta global.
-- Áreas como Previmed têm supervisor próprio (ver [[work/previmed/agents/000_agents|previmed/agents]]).
+- Áreas como Previmed têm supervisor próprio (ver [[professional/previmed/agents/000_agents|previmed/agents]]).
 
 ## Estado atual
 Base inicial com o supervisor.

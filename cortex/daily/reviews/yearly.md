@@ -7,7 +7,7 @@ Balanço do ano: grandes conquistas, aprendizagens e direção para o ano seguin
 
 ## O que vai guardar aqui
 - resumo do ano
-- marcos importantes (cruzar com [[life/timeline/000_timeline|life/timeline]])
+- marcos importantes (cruzar com [[operator/timeline/000_timeline|operator/timeline]])
 - objetivos para o próximo ano
 
 ## Como o CortexCore vai usar

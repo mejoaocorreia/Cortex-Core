@@ -1,4 +1,4 @@
-# QO — Closed
+# Queue — Closed
 
 Itens fechados / resolvidos.
 

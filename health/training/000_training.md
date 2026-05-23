@@ -11,7 +11,7 @@ Acompanhar treino e atividade física.
 - objetivos de progresso
 
 ## Como o CortexCore vai usar
-Pode gerar lembretes e alimentar [[cortex/daily/stats|stats]]. Liga-se a [[life/habits/000_habits|hábitos]].
+Pode gerar lembretes e alimentar [[cortex/daily/stats|stats]]. Liga-se a [[operator/habits/000_habits|hábitos]].
 
 ## Estado atual
 Por preencher.

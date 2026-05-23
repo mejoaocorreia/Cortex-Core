@@ -1,4 +1,4 @@
-# QO — Priority
+# Queue — Priority
 
 O que precisa de atenção agora.
 

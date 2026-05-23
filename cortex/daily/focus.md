@@ -10,7 +10,7 @@ Destacar a única coisa (ou poucas) que mais importa hoje.
 - 2 a 3 focos secundários, no máximo
 
 ## Como o CortexCore vai usar
-Alimentado por [[priority|qo/priority]] e pelo Attention Score. Evita listas longas: foco é escolher pouco.
+Alimentado por [[priority|queue/priority]] e pelo Attention Score. Evita listas longas: foco é escolher pouco.
 
 ## Estado atual
 Por preencher.

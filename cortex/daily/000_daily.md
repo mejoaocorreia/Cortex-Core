@@ -23,7 +23,7 @@ As [[cortex/routines/000_routines|routines]] **podem arrancar** o daily (ex.: a 
 - lembretes
 - reuniões
 - tempo por localização
-- tarefas prioritárias (vindas de [[priority|qo/priority]])
+- tarefas prioritárias (vindas de [[priority|queue/priority]])
 - histórico do dia
 - estatísticas e evolução ao longo do tempo
 
