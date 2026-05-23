@@ -10,7 +10,8 @@ Acompanhar saúde e bem-estar: sono, peso, treino e hidratação.
 - [[health/context/000_context|context]] — contexto de saúde
 - [[health/sleep/000_sleep|sleep]] — sono
 - [[health/weight/000_weight|weight]] — peso
-- [[health/training/000_training|training]] — treino
+- [[health/training/000_training|training]] — treino (área ampla)
+- [[health/gym/000_gym|gym]] — rotina/local/prática de ginásio
 - [[health/hydration/000_hydration|hydration]] — hidratação
 - [[health/archive/index|archive]] — arquivo da área
 

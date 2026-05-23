@@ -5,6 +5,16 @@ Fricção: o que trava o Operator.
 ## Objetivo
 Identificar o atrito que torna as coisas difíceis ou lentas — o que gasta energia sem produzir avanço.
 
+## O que é fricção (exemplos)
+Friction são os bloqueios que travam a ação. Por exemplo:
+- falta de um próximo passo claro
+- tarefa grande demais (sem estar partida em pedaços)
+- ferramenta confusa
+- demasiadas opções
+- medo de partir algo
+- dados em falta
+- energia baixa
+
 ## O que vai guardar aqui
 - pontos de fricção por área (bloqueios, repetições, tarefas adiadas)
 - onde o Operator perde tempo ou energia

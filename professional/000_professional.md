@@ -8,6 +8,9 @@ Representar a **vida profissional** — não apenas "trabalho" pontual, mas a ca
 ## O que vai guardar aqui
 - [[professional/agents/000_agents|agents]] — agentes profissionais
 - [[professional/context/000_context|context]] — contexto profissional
+- [[professional/career/000_career|career]] — carreira e evolução
+- [[professional/skills/000_skills|skills]] — competências
+- [[professional/reputation/000_reputation|reputation]] — reputação e presença
 - [[professional/previmed/000_previmed|previmed]] — projeto/empresa Previmed
 - [[professional/tasks/000_tasks|tasks]] — tarefas profissionais
 - [[professional/notes/000_notes|notes]] — notas

@@ -8,9 +8,13 @@ Representar a **aprendizagem ativa**: estudo, universidade, programação, IA e 
 ## O que vai guardar aqui
 - [[learning/agents/000_agents|agents]] — agentes desta área
 - [[learning/context/000_context|context]] — contexto de aprendizagem
+- [[learning/progress|progress]] — evolução da aprendizagem
 - [[learning/university/000_university|university]] — universidade
 - [[learning/programming/000_programming|programming]] — programação
 - [[learning/ai/000_ai|ai]] — inteligência artificial e investigação
+- [[learning/books/000_books|books]] — livros e leituras
+- [[learning/courses/000_courses|courses]] — cursos e formações
+- [[learning/research/000_research|research]] — investigação e pesquisa
 - [[learning/archive/index|archive]] — arquivo da área
 
 ## Como o CortexCore vai usar

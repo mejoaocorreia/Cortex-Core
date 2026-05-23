@@ -8,7 +8,12 @@ Representar **dinheiro, estabilidade, património, objetivos financeiros e cresc
 ## O que vai guardar aqui
 - [[wealth/agents/000_agents|agents]] — agentes desta área
 - [[wealth/context/000_context|context]] — contexto financeiro
+- [[wealth/income/000_income|income]] — rendimento
+- [[wealth/budget/000_budget|budget]] — orçamento
 - [[wealth/expenses/000_expenses|expenses]] — despesas
+- [[wealth/savings/000_savings|savings]] — poupança
+- [[wealth/investments/000_investments|investments]] — investimentos
+- [[wealth/opportunities/000_opportunities|opportunities]] — oportunidades
 - [[wealth/goals/000_goals|goals]] — objetivos financeiros
 - [[wealth/monthly/000_monthly|monthly]] — visão mensal
 - [[wealth/archive/index|archive]] — arquivo da área

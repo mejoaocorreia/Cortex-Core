@@ -6,8 +6,10 @@ Futura camada visual do CortexCore.
 Planear como o CortexCore será visto e navegado — para além do Obsidian.
 
 ## O que vai guardar aqui
-- [[cortex/interface/atlas|atlas]] — mapa/navegação geral
+- [[cortex/interface/atlas/000_atlas|atlas]] — mapas navegáveis por área
 - [[cortex/interface/dashboard|dashboard]] — painel principal
+- [[cortex/interface/views|views]] — filtros / modos visuais
+- [[cortex/interface/canvas/_temp|canvas]] — mapas visuais (Obsidian Canvas)
 - [[cortex/interface/obsidian_style|obsidian_style]] — estilo visual
 
 ## Como será usada

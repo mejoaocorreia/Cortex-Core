@@ -11,9 +11,11 @@ Ideias entram aqui (ou via [[cortex/inbox/000_inbox|inbox]]) e, quando amadurece
 ## Ideias registadas
 > Preencher ao longo do tempo. Áreas em aberto a explorar:
 > - significado final de `queue`
-> - `circle` vs `people`/`relations`
 > - nome final da inbox
 > - modelação do Attention Score
+
+Decisões já fechadas:
+> - área de pessoas/relações: `social` (não `circle`, `people` nem `relationships`)
 
 ## Estado atual
 Por preencher.

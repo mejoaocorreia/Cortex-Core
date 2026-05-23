@@ -6,6 +6,7 @@ Estado atual do Operator e das áreas do CortexCore.
 Medir e mostrar o **estado atual** do sistema: como estão o Operator e as áreas principais num dado momento. É o "painel de saúde" do CortexCore.
 
 ## O que vai guardar aqui
+- [[cortex/status/current_mission|current_mission]] — a prioridade prática ativa
 - [[cortex/status/radar|radar]] — radar chart das áreas
 - [[cortex/status/scores|scores]] — scores de 0 a 10 por área
 - [[cortex/status/overall|overall]] — score global

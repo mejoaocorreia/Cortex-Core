@@ -9,6 +9,7 @@ Definir quem o CortexCore é e como deve agir como cérebro digital pessoal: a s
 - [[cortex/self/vision|vision]] — para onde o CortexCore caminha
 - [[cortex/self/principles|principles]] — regras de comportamento e valores
 - [[cortex/self/personality|personality]] — tom, voz e forma de responder
+- [[cortex/self/operating_principles|operating_principles]] — como o CortexCore se comporta no dia a dia
 
 ## Como o CortexCore vai usar
 Os agentes e rotinas leem `self` para se manterem alinhados: a forma de responder, o que priorizar e como tratar o utilizador derivam daqui.

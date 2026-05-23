@@ -3,7 +3,13 @@
 Drift: afastamento do rumo.
 
 ## Objetivo
-Detetar quando o Operator se afasta, aos poucos, da direção que definiu — sem dar por isso.
+Detetar quando o Operator se afasta, aos poucos, da prioridade ou do rumo que definiu — sem dar por isso. Liga-se diretamente à [[cortex/status/current_mission|Current Mission]].
+
+## Exemplo conceptual
+- **Prioridade (Current Mission):** Website Previmed.
+- **Comportamento real:** mexer demasiado na estrutura do CortexCore.
+- **Resultado:** drift alto (a energia está a ir para outro lado).
+- **Sugestão futura do sistema:** voltar à [[cortex/status/current_mission|Current Mission]].
 
 ## O que vai guardar aqui
 - sinais de drift por área (objetivos a serem ignorados, hábitos a cair, áreas esquecidas)

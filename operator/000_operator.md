@@ -11,11 +11,15 @@ Distingue-se do [[cortex/self/000_self|self]]: `self` é a identidade do *própr
 - [[operator/agents/000_agents|agents]] — agentes desta área
 - [[operator/context/000_context|context]] — contexto pessoal
 - [[operator/thoughts/000_thoughts|thoughts]] — pensamentos e reflexões
+- [[operator/patterns/000_patterns|patterns]] — padrões e repetições observadas
 - [[operator/decisions/000_decisions|decisions]] — decisões pessoais
 - [[operator/timeline/000_timeline|timeline]] — linha do tempo
-- [[operator/circle/000_circle|circle]] — pessoas / relações
+- [[operator/social/000_social|social]] — contexto humano: pessoas e relações
 - [[operator/goals/000_goals|goals]] — objetivos
 - [[operator/habits/000_habits|habits]] — hábitos
+- [[operator/preferences/000_preferences|preferences]] — como o Operator gosta de trabalhar
+- [[operator/values/000_values|values]] — princípios e critérios de decisão
+- [[operator/environment/000_environment|environment]] — contexto físico e locais
 - [[operator/archive/index|archive]] — arquivo da área
 
 ## Como o CortexCore vai usar
