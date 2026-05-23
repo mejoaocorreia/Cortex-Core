@@ -9,7 +9,7 @@ Esconder temporariamente itens que não são para agora, mas que devem voltar ma
 - itens com data de retorno (`snooze até AAAA-MM-DD`)
 
 ## Como o CortexCore vai usar
-Quando a data chega, o item volta a `open` ou `priority`. Ver [[cortex/qo/rules|rules]] e o campo futuro `reminder_policy`.
+Quando a data chega, o item volta a `open` ou `priority`. Ver [[rules|rules]] e o campo futuro `reminder_policy`.
 
 ## Estado atual
 Por preencher.

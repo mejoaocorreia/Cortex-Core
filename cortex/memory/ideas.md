@@ -6,7 +6,7 @@ Ideias por explorar.
 Guardar ideias soltas sobre o CortexCore antes de virarem decisões ou projetos.
 
 ## Como o CortexCore vai usar
-Ideias entram aqui (ou via [[cortex/inbox/000_inbox|inbox]]) e, quando amadurecem, passam a decisão, projeto ou item de [[cortex/qo/000_qo|qo]].
+Ideias entram aqui (ou via [[cortex/inbox/000_inbox|inbox]]) e, quando amadurecem, passam a decisão, projeto ou item de [[000_queue|qo]].
 
 ## Ideias registadas
 > Preencher ao longo do tempo. Áreas em aberto a explorar:

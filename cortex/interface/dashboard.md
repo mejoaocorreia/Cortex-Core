@@ -11,7 +11,7 @@ Mostrar, num só ecrã, o estado do CortexCore: foco do dia, QO, lembretes e ata
 - módulos/cards previstos
 
 ## Como o CortexCore vai usar
-Será o ponto de entrada visual, equivalente gráfico ao [[000_boot|000_boot]]. Liga-se a [[cortex/daily/000_daily|daily]] e [[cortex/qo/000_qo|qo]].
+Será o ponto de entrada visual, equivalente gráfico ao [[000_boot|000_boot]]. Liga-se a [[cortex/daily/000_daily|daily]] e [[000_queue|qo]].
 
 ## Estado atual
 Conceito. Sem implementação.

@@ -7,7 +7,7 @@ Preparar o dia: foco, lembretes, reuniões e tempo.
 
 ## O que faz (futuro)
 - prepara o [[cortex/daily/today|today]]
-- escolhe o [[cortex/daily/focus|foco]] a partir de [[cortex/qo/priority|qo/priority]]
+- escolhe o [[cortex/daily/focus|foco]] a partir de [[priority|qo/priority]]
 - traz [[cortex/daily/reminders|lembretes]] e [[cortex/daily/weather|tempo]]
 
 ## Como o CortexCore vai usar

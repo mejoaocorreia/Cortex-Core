@@ -11,7 +11,7 @@ Servir como ecrã de arranque e navegação rápida. Sempre que abres o Vault, c
 - [[cortex/000_cortex|Cortex]] — núcleo operativo
 - [[cortex/daily/000_daily|Daily]] — o dia atual
 - [[cortex/inbox/000_inbox|Inbox]] — entrada bruta
-- [[cortex/qo/000_qo|QO]] — fila de coisas abertas
+- [[000_queue|QO]] — fila de coisas abertas
 - [[cortex/projects/000_projects|Project index]] — índice global de projetos
 
 ### Áreas de vida

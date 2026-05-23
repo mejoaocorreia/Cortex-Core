@@ -1,6 +1,6 @@
-# QO
+# Queue
 
-Fila organizada de coisas abertas. A pasta chama-se **`qo`** (não `q`).
+Fila organizada de coisas abertas. A pasta chama-se **`queue.
 
 ## Objetivo
 Reunir, num só sítio, tudo o que está em aberto e precisa de atenção, ordenado por importância real.
@@ -9,14 +9,14 @@ Reunir, num só sítio, tudo o que está em aberto e precisa de atenção, orden
 Ainda vamos debater o significado final. Por agora pode ser entendido como **"Queue of Open items"** — uma fila organizada de coisas abertas.
 
 ## O que vai guardar aqui
-- [[cortex/qo/open|open]] — itens abertos (em curso)
-- [[cortex/qo/priority|priority]] — o que precisa de atenção agora
-- [[cortex/qo/waiting|waiting]] — à espera de terceiros
-- [[cortex/qo/snoozed|snoozed]] — adiados para depois
-- [[cortex/qo/muted|muted]] — silenciados (sem alertas)
-- [[cortex/qo/closed|closed]] — fechados / resolvidos
-- [[cortex/qo/rules|rules]] — regras de triagem e prioridade
-- [[cortex/qo/archive/index|archive]] — arquivo de itens antigos
+- [[open|open]] — itens abertos (em curso)
+- [[priority|priority]] — o que precisa de atenção agora
+- [[waiting|waiting]] — à espera de terceiros
+- [[snoozed|snoozed]] — adiados para depois
+- [[muted|muted]] — silenciados (sem alertas)
+- [[closed|closed]] — fechados / resolvidos
+- [[rules|rules]] — regras de triagem e prioridade
+- [[cortex/queue/archive/index|archive]] — arquivo de itens antigos
 
 ## Fluxo
 `inbox → unprocessed → qo → daily / área / projeto → archive`
@@ -38,7 +38,7 @@ Cada item pode ter um **Attention Score** que mede a atenção que precisa.
 - `reminder_policy`
 
 ## Como o CortexCore vai usar
-O QO é onde o sistema decide o que mostrar no [[cortex/daily/focus|foco]] do dia. As [[cortex/qo/rules|regras]] definem como calcular o score e mover itens entre estados.
+O QO é onde o sistema decide o que mostrar no [[cortex/daily/focus|foco]] do dia. As [[rules|regras]] definem como calcular o score e mover itens entre estados.
 
 ## Estado atual
 Base inicial com os estados e o conceito de Attention Score.

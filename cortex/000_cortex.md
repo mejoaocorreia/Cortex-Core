@@ -11,7 +11,7 @@ O CortexCore é o Vault inteiro. A pasta `cortex/` é a **zona central** onde vi
 - [[cortex/memory/000_memory|memory]] — evolução, decisões, ideias, histórico
 - [[cortex/versions/v0.00.0|versions]] — versões do sistema
 - [[cortex/inbox/000_inbox|inbox]] — entrada bruta
-- [[cortex/qo/000_qo|qo]] — fila de coisas abertas
+- [[000_queue|qo]] — fila de coisas abertas
 - [[cortex/daily/000_daily|daily]] — o dia atual e revisões
 - [[cortex/agents/000_agents|agents]] — agentes do núcleo
 - [[cortex/routines/000_routines|routines]] — processos recorrentes / por evento

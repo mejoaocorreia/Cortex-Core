@@ -11,7 +11,7 @@ Guardar notas, cadeiras e materiais relacionados com a universidade.
 - materiais de estudo
 
 ## Como o CortexCore vai usar
-Prazos e trabalhos podem virar itens de [[cortex/qo/000_qo|qo]]. Notas servem de referência.
+Prazos e trabalhos podem virar itens de [[000_queue|qo]]. Notas servem de referência.
 
 ## Estado atual
 Por preencher.

@@ -9,7 +9,7 @@ Destacar os itens com maior Attention Score ou prazo iminente.
 - itens prioritários, no topo da fila
 
 ## Como o CortexCore vai usar
-Alimenta o [[cortex/daily/focus|foco do dia]]. As [[cortex/qo/rules|rules]] decidem o que entra aqui (score alto, prazo curto, ou muitas menções).
+Alimenta o [[cortex/daily/focus|foco do dia]]. As [[rules|rules]] decidem o que entra aqui (score alto, prazo curto, ou muitas menções).
 
 ## Estado atual
 Por preencher.

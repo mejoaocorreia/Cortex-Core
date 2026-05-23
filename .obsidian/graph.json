@@ -1,30 +1,22 @@
 {
-  "collapse-filter": false,
-  "search": "",
-  "showTags": false,
-  "showAttachments": false,
-  "hideUnresolved": false,
+  "collapse-filter": true,
+  "search": "-path:cortex/templates/ -path:cortex/archive/ -path:cortex/memory/",
+  "showTags": true,
+  "showAttachments": true,
+  "hideUnresolved": true,
   "showOrphans": true,
-  "collapse-color-groups": false,
-  "colorGroups": [
-    {
-      "query": "path:cortex  ",
-      "color": {
-        "a": 1,
-        "rgb": 9511458
-      }
-    }
-  ],
+  "collapse-color-groups": true,
+  "colorGroups": [],
   "collapse-display": true,
   "showArrow": false,
   "textFadeMultiplier": 0,
-  "nodeSizeMultiplier": 1,
+  "nodeSizeMultiplier": 1.2484375,
   "lineSizeMultiplier": 1,
-  "collapse-forces": true,
-  "centerStrength": 0.518713248970312,
-  "repelStrength": 10,
+  "collapse-forces": false,
+  "centerStrength": 1,
+  "repelStrength": 0,
   "linkStrength": 1,
-  "linkDistance": 250,
-  "scale": 0.5087618855792563,
-  "close": false
+  "linkDistance": 30,
+  "scale": 0.5087618855792551,
+  "close": true
 }

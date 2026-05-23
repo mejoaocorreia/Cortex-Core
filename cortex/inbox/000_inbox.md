@@ -15,7 +15,7 @@ Fluxo de processamento:
 
 `inbox → unprocessed → qo → daily / área específica / projeto → archive`
 
-Tudo o que entra é triado: vira item de [[cortex/qo/000_qo|qo]], entra no [[cortex/daily/000_daily|daily]], move-se para uma área específica, ou vai para arquivo.
+Tudo o que entra é triado: vira item de [[000_queue|qo]], entra no [[cortex/daily/000_daily|daily]], move-se para uma área específica, ou vai para arquivo.
 
 ## Ideias discutidas
 Nomes alternativos debatidos para esta zona:

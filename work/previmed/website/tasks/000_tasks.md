@@ -9,7 +9,7 @@ Reunir as tarefas concretas de construção e manutenção do site.
 - tarefas por fase (design, conteúdo, SEO, WordPress)
 
 ## Como o CortexCore vai usar
-Alimenta o [[cortex/qo/000_qo|qo]] e o [[cortex/daily/focus|foco]], dado que o website é prioridade atual.
+Alimenta o [[000_queue|qo]] e o [[cortex/daily/focus|foco]], dado que o website é prioridade atual.
 
 ## Estado atual
 Por preencher.

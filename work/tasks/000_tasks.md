@@ -9,7 +9,7 @@ Reunir tarefas profissionais que não pertencem a uma subárea específica.
 - tarefas gerais de trabalho
 
 ## Como o CortexCore vai usar
-Tarefas relevantes alimentam o [[cortex/qo/000_qo|qo]] e o [[cortex/daily/focus|foco]]. Tarefas de subáreas ficam lá (ex.: [[work/previmed/tasks/000_tasks|previmed/tasks]]).
+Tarefas relevantes alimentam o [[000_queue|qo]] e o [[cortex/daily/focus|foco]]. Tarefas de subáreas ficam lá (ex.: [[work/previmed/tasks/000_tasks|previmed/tasks]]).
 
 ## Estado atual
 Por preencher.

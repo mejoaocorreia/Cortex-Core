@@ -9,7 +9,7 @@ Registar o que já foi concluído, antes de ir para arquivo.
 - itens resolvidos, com data e (se útil) resultado
 
 ## Como o CortexCore vai usar
-Itens fechados ficam aqui por um período e depois movem-se para [[cortex/qo/archive/index|archive]]. Servem de histórico recente do que foi feito.
+Itens fechados ficam aqui por um período e depois movem-se para [[cortex/queue/archive/index|archive]]. Servem de histórico recente do que foi feito.
 
 ## Estado atual
 Por preencher.

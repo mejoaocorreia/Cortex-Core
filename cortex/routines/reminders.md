@@ -6,7 +6,7 @@ Rotina de lembretes.
 Detetar e disparar lembretes no momento certo.
 
 ## O que faz (futuro)
-- verifica itens com `reminder_policy` em [[cortex/qo/000_qo|qo]]
+- verifica itens com `reminder_policy` em [[000_queue|qo]]
 - traz `snoozed` que voltam hoje
 - alimenta [[cortex/daily/reminders|daily/reminders]]
 

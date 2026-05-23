@@ -11,7 +11,7 @@ Manter formatos consistentes para projetos, agentes, decisões, rotinas, daily e
 - [[cortex/templates/template_decision|template_decision]]
 - [[cortex/templates/template_routine|template_routine]]
 - [[cortex/templates/template_daily|template_daily]]
-- [[cortex/templates/template_qo_item|template_qo_item]]
+- [[template_queue_item|template_queue_item]]
 
 ## Como o CortexCore vai usar
 Ao criar algo novo, copia-se o template certo. Garante consistência e segue o [[cortex/protocols/naming|naming]]. (Podem mais tarde ligar-se ao plugin Templates do Obsidian.)

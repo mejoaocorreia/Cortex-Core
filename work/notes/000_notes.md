@@ -9,7 +9,7 @@ Guardar notas profissionais soltas que não pertencem a uma subárea.
 - notas de reuniões, ideias e referências de trabalho
 
 ## Como o CortexCore vai usar
-Notas que ganham importância podem virar tarefas, projetos ou itens de [[cortex/qo/000_qo|qo]].
+Notas que ganham importância podem virar tarefas, projetos ou itens de [[000_queue|qo]].
 
 ## Estado atual
 Por preencher.
