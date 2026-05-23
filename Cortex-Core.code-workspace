@@ -1,0 +1,13 @@
+{
+  "folders": [
+    {
+      "name": "Cortex-Core",
+      "path": "."
+    },
+    {
+      "name": "Previmed",
+      "path": "professional/previmed"
+    }
+  ],
+  "settings": {}
+}
