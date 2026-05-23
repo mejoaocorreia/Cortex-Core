@@ -1,0 +1,55 @@
+# CortexCore .gitignore
+# Protege dados sensiveis. NAO ignora os ficheiros .md explicativos da estrutura,
+# nem os .gitkeep necessarios para manter pastas vazias.
+
+# --- Segredos e credenciais ---
+.env
+*.env
+.env.*
+secrets/
+**/secrets/
+*secret*
+tokens/
+*token*
+credentials/
+*credential*
+*.key
+*.pem
+auth.json
+
+# --- Bases de dados e dados privados ---
+*.sqlite
+*.sqlite3
+*.db
+private/
+**/private/
+*private*
+
+# --- Uploads e exports ---
+uploads/
+**/uploads/
+exports/
+**/exports/
+
+# --- Caches e temporarios ---
+cache/
+**/cache/
+.cache/
+tmp/
+temp/
+*.tmp
+*.bak
+*.log
+
+# --- Obsidian (estado local / cache do workspace) ---
+.obsidian/workspace.json
+.obsidian/workspace-mobile.json
+.obsidian/cache/
+
+# --- Sistema operativo ---
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# --- Excecoes: garantir que placeholders nao sao ignorados ---
+!.gitkeep
