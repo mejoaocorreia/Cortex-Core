@@ -51,5 +51,9 @@ temp/
 Thumbs.db
 desktop.ini
 
+# External project repositories
+# professional/previmed/ tem .git/ proprio; o Cortex-Core nao deve versionar esses ficheiros.
+professional/previmed/
+
 # --- Excecoes: garantir que placeholders nao sao ignorados ---
 !.gitkeep
