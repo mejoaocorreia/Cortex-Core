@@ -17,6 +17,9 @@ Definir as regras de comportamento prático do CortexCore — a forma como age, 
 - **Ler por camadas** (ver [[cortex/protocols/context_ladder|context_ladder]]).
 - **Não agir fora do contexto.**
 - **Explicar antes de executar** ações relevantes.
+- **Confirmar área/repo/contexto antes de mexer em ficheiros** (ver [[cortex/protocols/external_repos|external_repos]]).
+- **Confirmar o repo ativo antes de qualquer commit** — Cortex-Core ou repo externo.
+- **Não misturar commits** entre o Cortex-Core e a Previmed.
 
 ## O que regula
 - o tom e a postura do sistema no dia a dia

@@ -16,6 +16,8 @@ Reunir as regras que definem como o sistema lê contexto, protege dados, organiz
 - [[cortex/protocols/reminders|reminders]] — como o sistema lembra o Operator
 - [[cortex/protocols/reviews|reviews]] — ciclos de revisão
 - [[cortex/protocols/signal_noise|signal_noise]] — separar sinal de ruído
+- [[cortex/protocols/external_repos|external_repos]] — gestão de repositórios externos/embutidos
+- [[cortex/protocols/command_routing|command_routing]] — routing futuro por comandos/contexto
 
 ## Como o CortexCore vai usar
 Antes de qualquer ação, agentes e rotinas seguem estes protocolos. São a "constituição" operacional do sistema.
