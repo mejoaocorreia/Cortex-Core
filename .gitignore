@@ -56,5 +56,8 @@ desktop.ini
 # A ponte documental vive em professional/previmed.md (fora do repo embutido) e e versionada.
 professional/previmed/
 
+# --- VS Code workspace ---
+*.code-workspace
+
 # --- Excecoes: garantir que placeholders nao sao ignorados ---
 !.gitkeep
